@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\andro\Desktop\Android\Scanner\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\andro\Desktop\Android\Scanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_92894e9047ecaef150b995dfc84b91d29290b38f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\andro\Desktop\Android\Scanner\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\andro\Desktop\Android\Scanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_f7b685b696771629dd832337dcd81eed4d7edc2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\andro\Desktop\Android\Scanner\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\andro\Desktop\Android\Scanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_c2fdf1a344aa00d610767ab5f2c49a49e6a476e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\andro\Desktop\Android\Scanner\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\andro\Desktop\Android\Scanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_f3358e9c4695eb65d17224a4f83e1d0f809c7610\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\andro\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\andro\Desktop\Android\Scanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_348fa1d2a299d713752b8b08e92127657c865819\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\andro\Desktop\Android\Scanner\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\andro\Desktop\Android\Scanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_779776ff23febe4228241fcab5dc0bfc6dc9c2b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\andro\Desktop\Android\Scanner\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a5ff03b0dc444ebf662d09893750ba74606f7008">
+        <dex dex="C:\Users\andro\Desktop\Android\Scanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fee6ec072cb735a7a50fbad3173ef9e75f00a4e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\andro\Desktop\Android\Scanner\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\andro\Desktop\Android\Scanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_30c83c8509502bcc7a5530c097ea2f888e2edac3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\andro\Desktop\Android\Scanner\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\andro\Desktop\Android\Scanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_44ebbebfde55b3133a6181c7140c77bceeb9415f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\andro\Desktop\Android\Scanner\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\andro\Desktop\Android\Scanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_6e4886311512198ca8f3d60c0afda447516e622d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\andro\Desktop\Android\Scanner\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cd2364a8fd5e6bb567aafa6907cef3d205839035">
+        <dex dex="C:\Users\andro\Desktop\Android\Scanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_89699bf98dcf67ee3a3e6f89d3db0ab8f83e9ec6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\andro\Desktop\Android\Scanner\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\andro\Desktop\Android\Scanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_bcf89d3a0224248305a09b3f192ec0b3c80a9a00\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Mon Feb 13 12:19:45 EST 2017
+base.0=C\:\\Users\\andro\\Desktop\\Android\\Scanner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_89699bf98dcf67ee3a3e6f89d3db0ab8f83e9ec6
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\andro\\Desktop\\Android\\Scanner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fee6ec072cb735a7a50fbad3173ef9e75f00a4e0\\classes.dex
+base.1=C\:\\Users\\andro\\Desktop\\Android\\Scanner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fee6ec072cb735a7a50fbad3173ef9e75f00a4e0
+file.0=C\:\\Users\\andro\\Desktop\\Android\\Scanner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_89699bf98dcf67ee3a3e6f89d3db0ab8f83e9ec6\\classes.dex

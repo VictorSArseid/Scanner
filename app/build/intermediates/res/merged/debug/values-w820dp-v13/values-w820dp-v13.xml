@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="position">
+        <enum name="left_top" value="0"/>
+        <enum name="left_bottom" value="1"/>
+        <enum name="right_top" value="2"/>
+        <enum name="right_bottom" value="3"/>
+    </attr>
+    <attr format="dimension" name="radius"/>
+    <declare-styleable name="ArcMenuView">
+        <attr name="position"/>
+        <attr name="radius"/>
+    </declare-styleable>
+    <declare-styleable name="ArcProcessBar">
+        <attr format="color" name="roundColor"/>
+        <attr format="color" name="roundProgressColor"/>
+        <attr format="dimension" name="roundWidth"/>
+        <attr format="color" name="innerRoundColor"/> 
+        <attr format="color" name="textColor"/>  
+        <attr format="dimension" name="textSize"/>
+        <attr format="integer" name="max"/> 
+        <attr format="boolean" name="textIsDisplayable"/>
+        <attr name="style">
+            <enum name="STROKE" value="0"/>
+            <enum name="FILL" value="1"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="AutoNewlineLayout">
+        <attr format="dimension" name="item_h_space"/>
+        <attr format="dimension" name="item_v_space"/>
+    </declare-styleable>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+</resources>
